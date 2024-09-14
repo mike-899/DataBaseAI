@@ -1,0 +1,25 @@
+{
+    "ofertas": [
+      {
+        "descripcion": "2x1 en Tacos de Carne Asada",
+        "precio": 10.00
+      },
+      {
+        "descripcion": "50% de descuento en Ensalada César",
+        "precio": 3.75
+      },
+      {
+        "descripcion": "Combo Hamburguesa Clásica + Refresco",
+        "precio": 10.99
+      },
+      {
+        "descripcion": "Pizza Margarita con Bebida Gratis",
+        "precio": 12.50
+      },
+      {
+        "descripcion": "10% de descuento en el Sushi Roll",
+        "precio": 13.49
+      }
+    ]
+  }
+  

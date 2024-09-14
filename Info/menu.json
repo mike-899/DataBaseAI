@@ -1,0 +1,41 @@
+{
+    "menu": [
+      {
+        "nombre": "Hamburguesa Clásica",
+        "precio": 8.99
+      },
+      {
+        "nombre": "Ensalada César",
+        "precio": 7.49
+      },
+      {
+        "nombre": "Pizza Margarita",
+        "precio": 12.50
+      },
+      {
+        "nombre": "Sándwich de Pollo",
+        "precio": 9.25
+      },
+      {
+        "nombre": "Tacos de Carne Asada",
+        "precio": 10.00
+      },
+      {
+        "nombre": "Sopa de Tomate",
+        "precio": 5.75
+      },
+      {
+        "nombre": "Sushi Roll",
+        "precio": 14.99
+      },
+      {
+        "nombre": "Pasta Alfredo",
+        "precio": 11.50
+      },
+      {
+        "nombre": "Pollo a la Parrilla",
+        "precio": 13.99
+      }
+    ]
+  }
+  
